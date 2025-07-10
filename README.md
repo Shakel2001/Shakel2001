@@ -1,6 +1,7 @@
 # 👋 Hey, I'm Shek Shakel 👨‍💻
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Fullstack+Developer;+%7CJava+%7C+Spring+Boot+%7C+React+%7C+MySQL;Passionate+about+building+modern+web+apps;Always+learning+%F0%9F%93%9A+%2B+sharing+what+I+learn)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Java,+Spring+Boot,+React,+MySQL,+C%2B%2B;Passionate+about+building+modern+web+apps;Always+learning+and+sharing+what+I+learn)
+
 
 ---
 
