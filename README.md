@@ -26,5 +26,5 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/your-link)  
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/shek-shakel-316092222/))  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://your-portfolio-link.com)
