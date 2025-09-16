@@ -18,7 +18,7 @@
 ## 🧠 My Favorite Stack
 
 **Frontend:** React, HTML, CSS, JavaScript  
-**Backend:** Java, Spring Boot  
+**Backend:** C++, Java, Python, Spring Boot  
 **Database:** MySQL  
 **Other Tools:** Git, GitHub, VS Code, Postman  
 
